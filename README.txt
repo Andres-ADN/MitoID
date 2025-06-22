@@ -34,7 +34,7 @@ MitoID está diseñado para funcionar en un entorno local y requiere Python 3.12
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [https://github.com/Andres-ADN/MitoID.git]
+    git clone https://github.com/Andres-ADN/MitoID.git
     cd MitoID
     ```
     
