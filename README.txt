@@ -1,7 +1,5 @@
 # MitoID: Herramienta de Análisis y Reporte de Variantes de ADN Mitocondrial
 
-![Logo de MitoID - Placeholder (puedes añadir uno más tarde)](https://via.placeholder.com/150)
-
 ## 🧬 Visión General
 
 MitoID es una herramienta bioinformática de código abierto, desarrollada para facilitar el análisis estandarizado y la comprensión visual de variantes en el ADN mitocondrial (ADNmt) humano. Diseñada para ser utilizada en contextos académicos y forenses, MitoID aborda la necesidad de una solución integrada, accesible y didáctica para el estudio de mutaciones del ADNmt a partir de secuencias en formato FASTA.
