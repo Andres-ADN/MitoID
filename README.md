@@ -77,16 +77,16 @@ MitoID está diseñado para funcionar en un entorno local y requiere Python 3.12
 
     * **Para analizar una secuencia específica (recomendado):**
         ```bash
-        python src/main.py data/nombre_de_tu_muestra.fasta
+        python -m src.main data/nombre_de_tu_muestra.fasta
         ```
         *Ejemplo:*
         ```bash
-        python src/main.py data/MW389258_1.fasta
+        python -m src.main data/MW389258_1.fasta
         ```
 
     * **Para ejecutar con la secuencia de ejemplo por defecto:**
         ```bash
-        python src/main.py
+        python -m src.main
         ```
         (MitoID detectará que no se proporcionó un archivo y usará `data/LC733703.1_full.fasta`).
 
